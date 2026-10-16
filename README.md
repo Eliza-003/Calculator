@@ -1,7 +1,7 @@
 A simple web calculator made with HTML, CSS, and vanilla JavaScript. Built as a project to practice core JavaScript concepts like DOM manipulation, event delegation, and state management.
 
 Features:
-Basic arithmetic operations (+, -, *, /),
+basic arithmetic operations (+, -, *, /),
 
 Decimal support with duplicate dot prevention,
 
